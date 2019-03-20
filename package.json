@@ -5,8 +5,7 @@
     "main": "index.js",
     "scripts": {
         "predev": "node config/config.child.js",
-        "dev": "webpack --config=config/webpack.dev.js",
-        "start": "webpack-dev-server  --config=config/webpack.dev.js"
+        "dev": "webpack --config=config/webpack.dev.js"
     },
     "keywords": [],
     "author": "",
